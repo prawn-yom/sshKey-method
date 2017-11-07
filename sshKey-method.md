@@ -1,6 +1,6 @@
 ##创建SSH 公私钥方法步骤
 
-1、创建SSH Key：ssh -keygen -t rsa
+1、创建SSH Key：ssh -keygen -t rsa 
 
 2、在文件路径 c:\用户\当前用户名\ 找到 .ssh 文件夹
 
